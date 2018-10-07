@@ -36,7 +36,7 @@
             android:layout_height="112dp"
             android:gravity="bottom"
             android:minHeight="?attr/actionBarSize"
-            app:layout_scrollFlags="scroll|enterAlwaysCollapsed|exitUntilCollapsed">
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
             <ImageView
                 android:layout_width="wrap_content"
